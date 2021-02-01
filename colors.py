@@ -1,4 +1,10 @@
-# based on https://jjmojojjmojo.github.io/time-based-fading.html
+"""
+NeoPixel Cokor Generators
+by Nathan Friedly
+
+Source: https://github.com/nfriedly/circuitpython_neopixel_fader
+Based on https://jjmojojjmojo.github.io/time-based-fading.html
+"""
 
 import time
 import math
